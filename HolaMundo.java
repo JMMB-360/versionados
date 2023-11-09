@@ -6,3 +6,6 @@ public class HolaMundo {
         System.out.println("¡Hola mundo!");
     }
 }
+
+// git tag -a VERSION -m "DESCRIPCIÓN"
+// Etiqueta el cambio realizado como una nueva versión del proyecto
