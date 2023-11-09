@@ -9,3 +9,6 @@ public class HolaMundo {
 
 // git tag -a VERSION -m "DESCRIPCIÓN"
 // Etiqueta el cambio realizado como una nueva versión del proyecto
+
+// git tag -n
+// Muestra todas las versiones
